@@ -1,0 +1,46 @@
+ManifestFileVersion: 0
+CRC: 2010462757
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 31e21d17d63b3b71ff37b0f7f34a03e6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4543d2bf43916d46fe60b60a03bef510
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: dc7c91b26689a054d88448aba6dfe424, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7c73c1ab94e28d244827af556dca1ed2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4eda371e5375f454490a86f21559ee38, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 135
+  Script: {instanceID: 0}
+- Class: 136
+  Script: {instanceID: 0}
+Assets:
+- Assets/My/AugImages/Prefabs/cube.prefab
+- Assets/My/AugImages/Prefabs/skull.prefab
+- Assets/My/AugImages/Prefabs/capsule.prefab
+- Assets/My/AugImages/Prefabs/sphere.prefab
+- Assets/My/AugImages/Prefabs/heart.prefab
+Dependencies: []
